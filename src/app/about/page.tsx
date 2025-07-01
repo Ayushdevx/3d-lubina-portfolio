@@ -287,7 +287,7 @@ function Page() {
           >
             <h1 className="text-3xl mb-10 lg:md-20">About me</h1>
             <p className="mb-10 text-roboto">
-              Hey there! I&apos;m Lubaina, a Computer Science Engineering student specializing in AI & Robotics at VIT Chennai. 
+              Hey there! I&apos;m Lubaina, a Bachelor of Technology BTech student specializing in Artificial Intelligence and Robotics at Vellore Institute of Technology. 
               I&apos;m passionate about artificial intelligence, robotics, and innovative technology solutions. 
               I love exploring cutting-edge technologies and creating meaningful impact through innovative projects.
             </p>

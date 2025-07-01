@@ -1,9 +1,9 @@
 const config = {
   title: "Lubaina | AI & Robotics Student",
   description: {
-    long: "Explore the portfolio of Lubaina, a Computer Science Engineering student specializing in AI & Robotics at VIT Chennai. Passionate about artificial intelligence, robotics, and innovative technology solutions with a focus on creating meaningful impact through technology.",
+    long: "Explore the portfolio of Lubaina, a Bachelor of Technology BTech student specializing in Artificial Intelligence and Robotics at Vellore Institute of Technology. Passionate about artificial intelligence, robotics, and innovative technology solutions with a focus on creating meaningful impact through technology.",
     short:
-      "Discover the portfolio of Lubaina, an AI & Robotics student creating innovative solutions with technology.",
+      "Discover the portfolio of Lubaina, an AI & Robotics BTech student creating innovative solutions with technology.",
   },
   keywords: [
     "Lubaina",
@@ -14,7 +14,10 @@ const config = {
     "AI",
     "Artificial Intelligence",
     "Robotics",
-    "VIT Chennai",
+    "VIT",
+    "Vellore Institute of Technology",
+    "BTech",
+    "Bachelor of Technology",
     "Computer Science",
     "Machine Learning",
     "Technology",

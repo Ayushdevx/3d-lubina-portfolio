@@ -73,10 +73,10 @@ const HeroSection = () => {
                   <p
                     className={cn(
                       "md:self-start md:mt-4 font-thin text-md text-slate-500 dark:text-zinc-400 ml-3",
-                      "cursor-default font-display sm:text-xl md:text-xl whitespace-nowrap bg-clip-text "
+                      "cursor-default font-display sm:text-xl md:text-xl bg-clip-text text-center md:text-left"
                     )}
                   >
-                    CSE (AI & Robotics) At VIT Chennai
+                    BTech in Computer Science Engineering (AI & Robotics) At VIT Chennai
                   </p>
                 </BlurIn>
               </div>
