@@ -76,7 +76,7 @@ const HeroSection = () => {
                       "cursor-default font-display sm:text-xl md:text-xl bg-clip-text text-center md:text-left"
                     )}
                   >
-                    BTech in Computer Science Engineering (AI & Robotics) At VIT Chennai
+                    CSE (AI & Robotics) At VIT Chennai
                   </p>
                 </BlurIn>
               </div>
